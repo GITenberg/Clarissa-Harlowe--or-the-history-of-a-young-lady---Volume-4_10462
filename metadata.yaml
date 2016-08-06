@@ -1,0 +1,31 @@
+_repo: Clarissa-Harlowe--or-the-history-of-a-young-lady---Volume-4_10462
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Samuel
+    birthdate: 1689
+    deathdate: 1761
+    gutenberg_agent_id: '1959'
+    url: http://www.gutenberg.org/2009/agents/1959
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Richardson
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rape victims -- Fiction'
+- !lcsh 'Kidnapping victims -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Young women -- Crimes against -- Fiction'
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: Clarissa Harlowe; or the history of a young lady — Volume 4
+url: http://www.gutenberg.org/ebooks/10462
